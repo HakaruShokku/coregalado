@@ -3,8 +3,16 @@ body{
     color:gray;
 }
 
+hr{
+    width: "50%";
+}
+
 header, main, nav, footer{
     text-align: center;
+}
+
+figure, div{
+    float:left;
 }
 
 main div{
@@ -14,9 +22,10 @@ main div{
 nav a{
     padding:15px;
     padding-bottom: 4px;
-    font-size:1.5em;
+    font-size:1.8em;
     text-decoration: none;
     color:white;
+    width:50%;
 }
 
 nav a:hover{
