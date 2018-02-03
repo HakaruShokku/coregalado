@@ -19,6 +19,8 @@ in html
             @import url("css/style.css");
         </style>
         
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+        
     </head>
 <!-- closing head -->
 
@@ -32,22 +34,42 @@ in html
         <nav>
             <hr width = "50%" />
             <a href= "index.html"> Home </a>
-            <a href= "about.html"> About </a>
+            <a href= "about.html" class="active"> About </a>
             <a href= "contact.html"> Contact Me </a>
         </nav>
         
-        <img src="" width="200" alt="image description"/>
+        <br/><br/><br/>
         
-        <ol>
-                <li></li>
-                <li></li>
-                <li></li>
-        </ol>
+        <div id="content">
+            <table>
+                <tr id="table-header">
+                    <td><strong>Programming Language</strong></td>
+                    <td><strong>Years Experience</strong></td>
+                </tr>
+                <tr class="table-row">
+                    <td>Java</td>
+                    <td>2</td>
+                </tr>
+                <tr class="table-row">
+                    <td>C++</td>
+                    <td>1</td>
+                </tr>
+                <tr class="table-row">
+                    <td>Python</td>
+                    <td>1</td>
+                </tr>
+            </table>
+        </div>
+        
         
         <br /> <br />
         
         <div id = "content">
-            
+            <ul>
+                <li><span class="hobby">Video Games</span>: I have enjoyed Video Games since I was 3 years old, and grew up using my allowance to buy my own games.</li>
+                <li><span class="hobby">Singing</span>: I enjoy singing a variety of songs, mostly consisting of rock.</li>
+                <li><span class="hobby">Japanese</span>: I spend time each day practicing Japanese by reading and writing, as well as speaking and listening.</li>
+            </ul>
         </div>
         
         
@@ -60,7 +82,7 @@ in html
                 <img src = "img/csumbLogo.png" id="otter" alt = "CSUMB Logo"/>
             </figure>
             
-            CST-336. 2018; Regalado<br />
+            CST-336 Internet Programming. 2018&copy; Regalado<br />
             <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
             It is used for academic purposes only.
         </footer>
