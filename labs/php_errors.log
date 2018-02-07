@@ -1,0 +1,1 @@
+[05-Feb-2018 23:05:29 UTC] PHP Parse error:  syntax error, unexpected ''Lemon'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 12

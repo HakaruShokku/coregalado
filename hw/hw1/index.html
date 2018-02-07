@@ -17,14 +17,7 @@ in html
         
         <style>
             @import url("css/style.css");
-            
-            hr{
-                 width: 50%;
-            }
         </style>
-        
-        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-
     </head>
 <!-- closing head -->
 
@@ -32,26 +25,49 @@ in html
     <!-- This is where we place the content of our website -->
     <body>
         <header>
-            <h1> Cody Regalado </h1>
-            <h2> Portfolio </h2>
+            <h1>Educational Games</h1>
+            <h2>Homework 1</h2>
         </header>
         
         <nav>
             
             <hr />
-            <a href="index.html"> Home </a>
+            <a href="index.html" class="active"> Home </a>
             <a href="about.html"> About </a>
-            <a href="contact.html"  class="active"> Contact Me </a>
+            <a href="titles.html"> Titles </a>
+            <a href="references.html"> References </a>
+            <hr />
             
         </nav>
         
         <br /> <br />
         
         <main>
-            <div>
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScwd4w10vuSMnRZtPoEPZK--eZOVX_WPQYys935GoOuJEbrCw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <figure>
+                <img src="img/laptopKids.jpg" id="pictureLeft" alt="Kids playing a Computer Game" />
+            </figure>
+            <figure>
+                <img src="img/littleTike.jpg" id="pictureRight" alt=""/>
+            </figure>
+            
+            <div id="mainDiv">
+                <br/>
+                What are Educational Games?
+                <ul class="list">
+                    <li>
+                        Educational games are games that are designed to teach a specific
+                        subject, skill, or help develop and improve understanding of
+                        concepts that have already been learned.
+                    </li>
+                    <li>
+                        They satisfy our fundamental need to learn by providing 
+                        entertainment, passionate involvement, structure, creativity, 
+                        adrenaline, and emotion in the game itself.
+                    </li>
+                </ul>
             </div>
         </main>
+        <br/><br/><br/>
         
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
