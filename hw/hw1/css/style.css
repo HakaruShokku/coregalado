@@ -32,6 +32,26 @@ header, main, nav, footer{
     text-shadow: 2px 2px 3px #3ECDC3;
 }
 
+#mainDiv1{
+    font-size:1.2em;
+    width: 600px;
+    border:2px solid black;
+    background: white;
+    margin: auto;
+    text-align: left;
+    text-shadow: 2px 2px 3px #3ECDC3;
+}
+
+#mainDiv2{
+    font-size:1.2em;
+    width: 600px;
+    border:2px solid black;
+    background: white;
+    margin: auto;
+    text-align: left;
+    text-shadow: 2px 2px 3px #3ECDC3;
+}
+
 ul.list{
     margin-left:30px;
     margin-right: 60px;
@@ -39,6 +59,10 @@ ul.list{
 }
 
 #pictureLeft{
+    float:left;
+}
+
+#pictureLeft2{
     float:left;
 }
 
