@@ -1,0 +1,29 @@
+[07-Feb-2018 23:08:10 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:10 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:11 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:11 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:11 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:11 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:12 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:12 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:12 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:12 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:13 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:13 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:41 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:41 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:42 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:42 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[07-Feb-2018 23:08:42 UTC] PHP Fatal error:  Call to undefined function getRandomColor() in /home/ubuntu/workspace/coregalado/practice/randomColor.php on line 51
+[07-Feb-2018 23:08:42 UTC] PHP Stack trace:
+[07-Feb-2018 23:08:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/practice/randomColor.php:0
+[12-Feb-2018 23:15:14 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/coregalado/practice/php_arrays.php on line 46
+[12-Feb-2018 23:15:17 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/coregalado/practice/php_arrays.php on line 46

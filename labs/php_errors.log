@@ -1,1 +1,79 @@
 [05-Feb-2018 23:05:29 UTC] PHP Parse error:  syntax error, unexpected ''Lemon'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 12
+[12-Feb-2018 21:03:39 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:39 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:39 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:39 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:39 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:39 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:39 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:39 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:39 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:39 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:39 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:39 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:58 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:58 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:58 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:58 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:58 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:58 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:58 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:58 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:58 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:58 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:58 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:58 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:59 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:59 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:59 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:59 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:59 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:59 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:03:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:03:59 UTC] PHP Stack trace:
+[12-Feb-2018 21:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:03:59 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:03:59 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:04:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:04:00 UTC] PHP Stack trace:
+[12-Feb-2018 21:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:04:00 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:04:00 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:04:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:04:00 UTC] PHP Stack trace:
+[12-Feb-2018 21:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:04:00 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:04:00 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:04:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:04:00 UTC] PHP Stack trace:
+[12-Feb-2018 21:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:04:00 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:04:00 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:04:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:04:00 UTC] PHP Stack trace:
+[12-Feb-2018 21:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:04:00 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:04:00 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:04:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:04:00 UTC] PHP Stack trace:
+[12-Feb-2018 21:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:04:00 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:04:00 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[12-Feb-2018 21:04:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/coregalado/labs/lab2/index.php on line 7
+[12-Feb-2018 21:04:00 UTC] PHP Stack trace:
+[12-Feb-2018 21:04:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
+[12-Feb-2018 21:04:00 UTC] PHP   2. play() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:37
+[12-Feb-2018 21:04:00 UTC] PHP   3. rand() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:7
+[17-Feb-2018 21:44:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/coregalado/labs/lab2/inc/functions.php on line 6
+[17-Feb-2018 21:44:54 UTC] PHP Stack trace:
+[17-Feb-2018 21:44:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab2/index.php:0
