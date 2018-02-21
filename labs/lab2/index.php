@@ -1,7 +1,5 @@
 <?php 
-
 include 'inc/functions.php';
-
 ?>
 
 <!DOCTYPE html>

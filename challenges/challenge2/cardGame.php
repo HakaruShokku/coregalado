@@ -1,8 +1,6 @@
 <?php
     
     function getCard($rand1, $rand2){
-        
-
         if($rand1 == 0 )
         {
             $suit = "clubs";
@@ -39,8 +37,6 @@
         echo"<img src = 'img/cards/$suit/$value.png' /> ";
         
     }
-    
-    
     
 ?>
 

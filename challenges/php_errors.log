@@ -1,0 +1,8 @@
+[19-Feb-2018 23:28:52 UTC] PHP Fatal error:  Call to undefined function length() in /home/ubuntu/workspace/coregalado/challenges/challenge3/index.php on line 41
+[19-Feb-2018 23:28:52 UTC] PHP Stack trace:
+[19-Feb-2018 23:28:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/challenges/challenge3/index.php:0
+[19-Feb-2018 23:28:52 UTC] PHP   2. getPassword() /home/ubuntu/workspace/coregalado/challenges/challenge3/index.php:54
+[19-Feb-2018 23:35:00 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ubuntu/workspace/coregalado/challenges/challenge3/index.php on line 66
+[19-Feb-2018 23:35:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/coregalado/challenges/challenge3/index.php on line 67
+[19-Feb-2018 23:35:21 UTC] PHP Stack trace:
+[19-Feb-2018 23:35:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/challenges/challenge3/index.php:0
