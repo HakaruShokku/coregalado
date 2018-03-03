@@ -114,6 +114,7 @@ function demo() {
 	Player::$players[] = new Player("Chenyu");
 	Player::$players[] = new Player("Cody");
 	Player::$players[] = new Player("Devin");
+	shuffle(Player::$players);
 	Player::initDraw();
 	Player::doExtraDraws();
 	echo "<div id='playerUI'>";//Cody - start of the playerUI
