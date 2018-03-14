@@ -52,3 +52,37 @@
 [21-Feb-2018 03:27:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/ubuntu/workspace/coregalado/hw/hw2/index.php on line 26
 [21-Feb-2018 03:27:36 UTC] PHP Stack trace:
 [21-Feb-2018 03:27:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw2/index.php:0
+[14-Mar-2018 00:00:00 UTC] PHP Fatal error:  Call to undefined function checkHunterType() in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 25
+[14-Mar-2018 00:00:00 UTC] PHP Stack trace:
+[14-Mar-2018 00:00:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 00:00:05 UTC] PHP Fatal error:  Call to undefined function checkHunterType() in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 25
+[14-Mar-2018 00:00:05 UTC] PHP Stack trace:
+[14-Mar-2018 00:00:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 04:19:58 UTC] PHP Parse error:  syntax error, unexpected '$weapons' (T_VARIABLE) in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 34
+[14-Mar-2018 04:30:20 UTC] PHP Parse error:  syntax error, unexpected '$weapons' (T_VARIABLE) in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 44
+[14-Mar-2018 04:41:16 UTC] PHP Warning:  Missing argument 1 for checkHunterType(), called in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 45 and defined in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 2
+[14-Mar-2018 04:41:16 UTC] PHP Stack trace:
+[14-Mar-2018 04:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 04:41:16 UTC] PHP   2. checkHunterType() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:45
+[14-Mar-2018 04:41:16 UTC] PHP Warning:  Missing argument 1 for checkHunterType(), called in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 47 and defined in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 2
+[14-Mar-2018 04:41:16 UTC] PHP Stack trace:
+[14-Mar-2018 04:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 04:41:16 UTC] PHP   2. checkHunterType() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:47
+[14-Mar-2018 04:41:16 UTC] PHP Warning:  Missing argument 1 for checkHunterType(), called in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 50 and defined in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 2
+[14-Mar-2018 04:41:16 UTC] PHP Stack trace:
+[14-Mar-2018 04:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 04:41:16 UTC] PHP   2. checkHunterType() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:50
+[14-Mar-2018 04:41:16 UTC] PHP Warning:  Missing argument 1 for checkHunterType(), called in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 51 and defined in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 2
+[14-Mar-2018 04:41:16 UTC] PHP Stack trace:
+[14-Mar-2018 04:41:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 04:41:16 UTC] PHP   2. checkHunterType() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:51
+[14-Mar-2018 05:04:50 UTC] PHP Parse error:  syntax error, unexpected '$weapons' (T_VARIABLE) in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 40
+[14-Mar-2018 05:05:24 UTC] PHP Parse error:  syntax error, unexpected '$weapons' (T_VARIABLE) in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 40
+[14-Mar-2018 05:05:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 40
+[14-Mar-2018 05:06:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 40
+[14-Mar-2018 05:06:38 UTC] PHP Parse error:  syntax error, unexpected '$weapons' (T_VARIABLE) in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 40
+[14-Mar-2018 06:11:44 UTC] PHP Fatal error:  Call to undefined function int() in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 49
+[14-Mar-2018 06:11:44 UTC] PHP Stack trace:
+[14-Mar-2018 06:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/hw/hw3/index.php:0
+[14-Mar-2018 07:08:17 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 74
+[14-Mar-2018 18:27:41 UTC] PHP Parse error:  syntax error, unexpected '$weapons' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/coregalado/hw/hw3/index.php on line 28

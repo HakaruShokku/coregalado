@@ -1,0 +1,54 @@
+body{
+    background: black;
+}
+
+#surveyReset{
+    margin-left: 500px
+}
+
+#title{
+    text-align: center;
+    font-size: 3em;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+h1{
+    color:blue;
+    font-size: 1.5em;
+}
+
+#weaponType{
+    color:red;
+    font-size: 2em;
+    text-align: center;
+}
+
+#surveyUI{
+    background: black;
+    border: 2px solid red;
+    text-align: center;
+    margin: 250px;
+    margin-top: 50px;
+}
+
+#questionBox, img{
+    background: white;
+    margin-left: 200px;
+    margin-right: 200px; 
+}
+
+#leftSide{
+    float:left;
+    text-align: left;
+    margin-left: 20px
+}
+
+#rightSide{
+    text-align: center;
+    margin-left: 0px;
+}
