@@ -7,8 +7,6 @@
             
             echo "<table class='table'>";
                 foreach ($_SESSION['cart'] as $item){
-                    //$itemName = $item['name'];
-                   //$itemPrice = $item['price'];
                     $itemId = $item['id'];
                     $itemQuant = $item['quantity'];
                     
@@ -66,9 +64,9 @@
                 // Check to see if the most recent POST request has the same itemId
                 // If so, this item was just added to the cart. Display different button.
                 if($_POST['itemId'] == $itemId){
-                    echo "<td><button class='btn btn-success'>Added</button></td>";
+                    echo '<td><button class="btn btn-success">Added</button></td>';
                 } else {
-                    echo "<td><button class='btn btn-warning'>Add</button></td>";
+                    echo '<td><button class="btn btn-warning">Add</button></td>';
                 }
                  echo '</tr>';
                 echo '</form>';
@@ -82,13 +80,3 @@
         echo count($_SESSION['cart']);
     }
 ?>
-
-<!DOCTYPE html>
-<html>
-    <head>
-        <title> </title>
-    </head>
-    <body>
-
-    </body>
-</html>

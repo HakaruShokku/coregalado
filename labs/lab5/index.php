@@ -1,5 +1,5 @@
 <?php
-    include 'functions.php';
+    include 'inc/functions.php';
     
     // Start the session in any php file where you will be using sessions
     session_start();
@@ -68,7 +68,7 @@
                         <li><a href='index.php'>Home</a></li>
                         <li><a href='scart.php'>
                         <span class='glyphicon glyphicon-shopping-cart' aria-hidden='true'>
-                        </span>Cart : <?php displayCartCount(); ?> </a></li>
+                        </span>Cart: <?php displayCartCount(); ?> </a></li>
                     </ul>
                 </div>
             </nav>
