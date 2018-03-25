@@ -429,3 +429,9 @@ Stack trace:
 [24-Mar-2018 23:08:32 UTC] PHP Fatal error:  Call to undefined function displayCartCount() in /home/ubuntu/workspace/coregalado/labs/lab5/scart.php on line 51
 [24-Mar-2018 23:08:32 UTC] PHP Stack trace:
 [24-Mar-2018 23:08:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab5/scart.php:0
+[24-Mar-2018 23:41:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/coregalado/labs/lab5/inc/functions.php on line 40
+[24-Mar-2018 23:41:05 UTC] PHP Stack trace:
+[24-Mar-2018 23:41:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab5/index.php:0
+[25-Mar-2018 05:06:33 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/coregalado/labs/lab5/inc/functions.php on line 67
+[25-Mar-2018 05:06:33 UTC] PHP Stack trace:
+[25-Mar-2018 05:06:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab5/index.php:0

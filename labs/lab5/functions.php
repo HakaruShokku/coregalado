@@ -51,22 +51,22 @@
                 $itemId = $item['itemId'];
                 
                 // Display table row w/ Add button for submitting form
-                echo "<tr>";
+                echo '<tr>';
                 echo "<td><img src='$itemImage'></td>";
                 echo "<td><h4>$itemName</h4></td>";
                 echo "<td><h4>$itemPrice</h4></td>";
                 
                 // Create 'hidden' fields to send item data via POST
                 echo "<form method='POST'>";
-                echo "<input type='hidden' name='itemName' value='$itemName'>";
-                echo "<input type='hidden' name='itemPrice' value='$itemPrice'>";
-                echo "<input type='hidden' name='itemImg' value='$itemImage'>";
-                echo "<input type='hidden' name='itemId' value='$itemId'>";
+                echo "<input type='hidden' name'itemName' value='$itemName'>";
+                echo "<input type='hidden' name'itemPrice' value='$itemPrice'>";
+                echo "<input type='hidden' name'itemImg' value='$itemImage'>";
+                echo "<input type='hidden' name'itemId' value='$itemId'>";
                 
                 // Check to see if the most recent POST request has the same itemId
                 // If so, this item was just added to the cart. Display different button.
                 if($_POST['itemId'] == $itemId){
-                    echo "<td><button class='btn btn-success'>Added</button></td>";
+                    echo "<td><button class='btn btn-success>Added</button></td>";
                 } else {
                     echo "<td><button class='btn btn-warning'>Add</button></td>";
                 }
