@@ -435,3 +435,226 @@ Stack trace:
 [25-Mar-2018 05:06:33 UTC] PHP Parse error:  syntax error, unexpected 'btn' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/coregalado/labs/lab5/inc/functions.php on line 67
 [25-Mar-2018 05:06:33 UTC] PHP Stack trace:
 [25-Mar-2018 05:06:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab5/index.php:0
+[26-Mar-2018 22:13:08 UTC] PHP Fatal error:  Call to undefined method PDOStatement::exectute() in /home/ubuntu/workspace/coregalado/labs/lab7/loginProcess.php on line 20
+[26-Mar-2018 22:13:08 UTC] PHP Stack trace:
+[26-Mar-2018 22:13:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/loginProcess.php:0
+[26-Mar-2018 22:32:40 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 6
+[26-Mar-2018 22:32:40 UTC] PHP Stack trace:
+[26-Mar-2018 22:32:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:32:40 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:35
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:22 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:22 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:22 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:33:58 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:33:58 UTC] PHP Stack trace:
+[26-Mar-2018 22:33:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:33:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productName' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'productDescription' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
+[26-Mar-2018 22:34:01 UTC] PHP Warning:  Illegal string offset 'price' in /home/ubuntu/workspace/coregalado/labs/lab7/admin.php on line 19
+[26-Mar-2018 22:34:01 UTC] PHP Stack trace:
+[26-Mar-2018 22:34:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:0
+[26-Mar-2018 22:34:01 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/coregalado/labs/lab7/admin.php:37
