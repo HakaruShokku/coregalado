@@ -51,3 +51,6 @@ Stack trace:
 #0 /home/ubuntu/workspace/coregalado/challenges/challenge4/report.php(58): PDOStatement->execute()
 #1 {main}
   thrown in /home/ubuntu/workspace/coregalado/challenges/challenge4/report.php on line 58
+[09-Apr-2018 22:41:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/coregalado/challenges/challenge5/index.php on line 37
+[09-Apr-2018 22:43:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/coregalado/challenges/challenge5/index.php on line 10
+[09-Apr-2018 22:43:23 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/coregalado/challenges/challenge5/index.php on line 66

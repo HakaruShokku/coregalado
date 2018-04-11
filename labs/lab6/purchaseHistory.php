@@ -1,13 +1,9 @@
+
+
 <?php
 
 
     $productId = $_GET['productId'];
-
-
- ?>
-
-
-<?php
     
     include '../../dbConnection.php';
     $conn = getDatabaseConnection("ottermart");
@@ -44,6 +40,9 @@
 <html>
     <head>
         <title> </title>
+        <style>
+            @import url(css/styles.css);
+        </style>
     </head>
     <body>
 
