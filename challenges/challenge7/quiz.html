@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> JavaScript Quiz </title>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        
+        <script>
+            
+            $(document).ready(function(){
+                
+                $("button").click(function(){
+                    alert($("#q1").val()); });
+                    
+                    if($("q1").val() == "Sacramento"){
+                        $("#feedback1").html("Correct! The capitol is Sacramento!");
+                    } else {
+                        $("#feedback1").html("Incorrect! The capitol is Sacramento!");
+                    }
+            });
+            
+        </script>
+        
+    </head>
+    <body>
+
+        1. What is the capitol of California?
+        
+        <input id="q1" type="text">
+        
+        <div id="feedback1"></div>
+        
+        <button> Submit Quiz </button>
+
+        <script>
+            
+            
+            
+        </script>
+
+    </body>
+</html>

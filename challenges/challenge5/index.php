@@ -2,7 +2,6 @@
 
 session_start();
 
-
 if(!isset($_SESSION["numbers"])){
     $_SESSION["numbers"] = array();
 }
@@ -45,18 +44,29 @@ echo "<form value='submit'>";
                 
                   if(isset($_GET["number"]))
                   {
-                      echo "2";
+                      //echo "2";
                       if($_GET["number"] == $_SESSION["randNum"]){
-                          echo "Numbers of guesses " . sizeof($_SESSION["numbers"]) . " in ";
-                          foreach($_SESSION["numbers"] as $item){
-                              echo $item . " ";
+                          echo "Numbers of guesses: "  . sizeof($_SESSION["numbers"])."</br>";
+                       
+                          if(isset($_SESSION["numbers"]))
+                          {
+                          foreach($_SESSION["history"] as $history)
+                          {
+                              echo "You guessed ".$history[0]." in ".$history[1]." tries </br>";
                           }
+                          }
+                          $_SESSION["history"][] = array($_SESSION['randNum'], sizeof($_SESSION["numbers"]));
                           $_SESSION["randNum"] = rand(1,10);
+                             $_SESSION["numbers"] = array();
                       }
                       else{
-                          echo"3";
+                          //echo"3";
                           array_push($_SESSION["numbers"], $_GET["number"]);
-                          print_r($_SESSION["numbers"]);
+                          if($_SESSION["randNum"] < $_GET["number"]){
+                              echo "The number is lower";
+                          } else {
+                              echo "The number is higher";
+                          }
                           $_SESSION["guesses"] += 1;
                       }
                   }
@@ -67,7 +77,7 @@ echo "<form value='submit'>";
                 else{
                     if(isset($_GET["giveUp"]))
                     {
-                        session_unset();
+                        session_destroy();
                     }
                     else{
                         $_SESSION["randNum"]=rand(0,10);
