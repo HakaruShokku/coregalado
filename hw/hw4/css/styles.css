@@ -1,0 +1,49 @@
+table{
+    background:yellow;
+}
+
+#header, table, tr{
+    border: 2px solid black;
+}
+
+td{
+    width:30px;
+}
+
+#title{
+    color: #3437D5;
+    font-size: 3.5em;
+    text-align: center;
+}
+
+#title, #compare #game{
+    text-shadow: 3px 3px 5px #317873;
+}
+
+#compare, #game{
+    color: blue;
+}
+
+#compare{
+    font-size: 3em;
+}
+
+body{
+    background-color:yellow;
+}
+
+#win{
+    font-size: 2em;
+}
+
+#win, footer{
+    color: #3437D5;
+    text-align: center;
+    text-shadow: 3px 3px 5px #317873;
+}
+
+#game{
+    width: 500px;
+    margin: auto;
+    text-shadow: 2px 2px 3px #3ECDC3;
+}

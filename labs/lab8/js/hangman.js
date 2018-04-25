@@ -1,5 +1,3 @@
-//left off on lesson 5
-
 var selectedWord = "";
 var selectedHint = "";
 var board = []; //array declaration

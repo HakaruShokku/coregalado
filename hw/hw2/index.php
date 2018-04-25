@@ -27,8 +27,7 @@ include "inc/functions.php";
                         
                         for($i = 0; $i < 3; $i++){
                             displayRound($GLOBALS[player1][$i], $GLOBALS[player2][$i]);
-                            echo "<br/>
-                            ";
+                            echo "<br/>";
                         }
                     ?>
                 </tr>

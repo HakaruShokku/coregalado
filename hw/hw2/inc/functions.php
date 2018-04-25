@@ -5,8 +5,6 @@ $score2 = 0;
 
 function getHand($rand1, $pos){
     
-    $imgs = array();
-    
     switch ($rand1){
         case 0:
             echo "<td><img id='column$pos' src = 'img/rock.PNG' width ='100' alt='rock' title='rock' /></td>";
