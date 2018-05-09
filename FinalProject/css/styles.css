@@ -1,0 +1,40 @@
+nav a{
+    padding:15px;
+    padding-bottom: 4px;
+    padding-top:none;
+    font-size:1.5em;
+    text-decoration: none;
+    width:50%;
+}
+
+nav a:hover{
+    font-size:2em;
+    transition: .9s;
+}
+
+.active {
+    border-bottom:2px blue solid;
+    font-size:2em;
+    color: #94c8c6;
+}
+
+#mainDiv{
+    padding:10px;
+    font-size:1.2em;
+    width: 70%;
+    border:2px solid black;
+    background: white;
+    margin: auto;
+    text-align: center;
+    text-shadow: 2px 2px 3px #3ECDC3;
+}
+
+#search{
+    float:right;
+    margin-right: 10%;
+}
+
+main, footer{
+    text-align: center;
+}
+
